@@ -67,7 +67,3 @@ The dashboard will open in your default web browser at `http://localhost:8501`.
 - scikit-learn
 - matplotlib
 - seaborn
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
