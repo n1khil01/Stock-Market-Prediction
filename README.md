@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 Run the Streamlit app:
 ```bash
-streamlit run finance-stock-market.py
+python3 -m streamlit run finance-stock-market.py
 ```
 
 The dashboard will open in your default web browser at `http://localhost:8501`.
